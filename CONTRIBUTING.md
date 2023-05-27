@@ -29,8 +29,8 @@ Utilisez l’outil de commentaires au bas de n’importe quel article pour envoy
 
 ### <a name="editing-in-github"></a>Modification dans GitHub
 
-Suivez les instructions pour [rapide modifie dans les documents existants](https://docs.microsoft.com/contribute/#quick-edits-to-existing-documents) dans notre guide des contributeurs.
+Suivez les instructions pour [les modifications rapides pour les documents existants](https://docs.microsoft.com/contribute/#quick-edits-to-existing-documents) dans notre guide des contributeurs.
 
 ### <a name="pull-request"></a>Demande d'extraction
 
-Passez en revue les conseils pour [requêtes d’extraction](https://docs.microsoft.com/contribute/how-to-write-workflows-major#pull-request-processing) dans notre guide des contributeurs.
+Passez en revue les conseils pour [les requêtes d’extraction](https://docs.microsoft.com/contribute/how-to-write-workflows-major#pull-request-processing) dans notre guide des contributeurs.
