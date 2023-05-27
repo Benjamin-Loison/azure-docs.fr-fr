@@ -430,8 +430,8 @@ La synchronisation initiale est généralement limitée par le taux de chargemen
     N’hésitez pas à nous indiquer si vous avez besoin d’une fonctionnalité de capture d’instantanés de fichiers sur [Azure Files UserVoice](https://feedback.azure.com/d365community/forum/a8bb4a47-3525-ec11-b6e6-000d3a4f0f84?c=c860fa6b-3525-ec11-b6e6-000d3a4f0f84).
 
 * <a id="encrypted-snapshots"></a>
-**Puis-je créer des instantanés d’un partage de fichiers chiffré ?**  
-    Vous pouvez capturer un instantané de partages de fichiers Azure pour lesquels le chiffrement est activé au repos. Vous pouvez restaurer des fichiers depuis un instantané de partage vers un partage de fichiers chiffré. Si votre partage est chiffré, l’instantané de partage l’est également.
+**Puis-je créer des instantanés d’un partage de fichiers chiffrés ?**  
+    Vous pouvez capturer un instantané de partages de fichiers Azure pour lesquels le chiffrement est activé au repos. Vous pouvez restaurer des fichiers depuis un instantané de partage vers un partage de fichiers chiffrés. Si votre partage est chiffré, l’instantané de partage l’est également.
 
 * <a id="geo-redundant-snaphsots"></a>
 **Mes instantanés de partage sont-ils géoredondants ?**  
